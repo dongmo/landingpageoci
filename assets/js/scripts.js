@@ -4,7 +4,7 @@ jQuery(document).ready(function() {
     /*
         Fullscreen background
     */
-    $.backstretch("assets/img/backgrounds/gamefactory.jpg");
+    $.backstretch("assets/img/backgrounds/firstaidoci.jpg");
     
     /*
         Form validation
